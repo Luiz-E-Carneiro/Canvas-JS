@@ -575,31 +575,7 @@ canvas {
     transition: 0.2s ease-in-out
 }
 
-/* .divActions button:nth-of-type(1){
-    background-color: ;
-}
-.divActions button:nth-of-type(){
-
-}
-.divActions button:nth-of-type(){
-
-} */
-
 .divActions button:hover {
     border-radius: 10px;
     box-shadow: 0 0 7px rgba(0, 0, 0, 0.1);
-}
-
-.btnRightDraws {
-    position: absolute;
-    width: 30px;
-    height: 60px;
-    left: -30px;
-}
-
-.rightDraws {
-    height: 100%;
-    width: 30%;
-    position: absolute;
-    right: 0;
 }
